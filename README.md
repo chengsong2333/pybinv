@@ -1,6 +1,6 @@
 # pybinv v1.0
 
-pybinv, based on Bayhunter[http://doi.org/10.5880/GFZ.2.4.2019.001](http://doi.org/10.5880/GFZ.2.4.2019.001), is an open source Python tool to perform an McMC transdimensional Bayesian inversion of surface wave dispersion and/or receiver functions, and/or rayleigh wave ellipticity. The algorithm follows a data-driven strategy and solves for the velocity-depth structure, the number of layers, Vp/Vs ratio and noise parameters, i.e., data noise correlation and amplitude. The forward modeling codes are provided within the package, but are easily replaceable with own codes. It is also possible to add (completely different) data sets.
+pybinv, based on Bayhunter[http://doi.org/10.5880/GFZ.2.4.2019.001](http://doi.org/10.5880/GFZ.2.4.2019.001), is an open source Python tool to perform transdimensional Bayesian inversion of surface wave dispersion and/or receiver functions, and/or rayleigh wave ellipticity(HVSR) with Parallel Tempering. The algorithm follows a data-driven strategy and solves for the velocity-depth structure, the number of layers, Vp/Vs ratio and noise parameters, i.e., data noise correlation and amplitude. The forward modeling codes are provided within the package, but are easily replaceable with own codes. It is also possible to add (completely different) data sets.
 
 The BayWatch module can be used to live-stream the inversion while it is running: this makes it easy to see how each chain is exploring the parameter space, how the data fits and models change and in which direction the inversion progresses.
 
