@@ -6,13 +6,13 @@ The BayWatch module can be used to live-stream the inversion while it is running
 
 
 ### Citation
-
-<!-- > Dreiling, Jennifer; Tilmann, Frederik (2019): BayHunter - McMC transdimensional Bayesian inversion of receiver functions and surface wave dispersion. GFZ Data Services. [http://doi.org/10.5880/GFZ.2.4.2019.001](http://doi.org/10.5880/GFZ.2.4.2019.001) -->
+Comming soon
+<!--> Dreiling, Jennifer; Tilmann, Frederik (2019): BayHunter - McMC transdimensional Bayesian inversion of receiver functions and surface wave dispersion. GFZ Data Services. [http://doi.org/10.5880/GFZ.2.4.2019.001](http://doi.org/10.5880/GFZ.2.4.2019.001) -->
 
 
 ### Application examples
 
-<!-- > Dreiling et al. (2020): Crustal structure of Sri Lanka derived from joint inversion of surface wave dispersion and receiver functions using a Bayesian approach. Journal of Geophysical Research: Solid Earth. [https://doi.org/10.1029/2019JB018688](https://doi.org/10.1029/2019JB018688).
+<!--> Dreiling et al. (2020): Crustal structure of Sri Lanka derived from joint inversion of surface wave dispersion and receiver functions using a Bayesian approach. Journal of Geophysical Research: Solid Earth. [https://doi.org/10.1029/2019JB018688](https://doi.org/10.1029/2019JB018688).
 
 > Green et al. (2020): Magmatic and sedimentary structure beneath the Klyuchevskoy Volcanic Group, Kamchatka, from ambient noise tomography. Journal of Geophysical Research: Solid Earth. [https://doi.org/10.1029/2019JB018900](https://doi.org/10.1029/2019JB018900).
 
@@ -54,9 +54,6 @@ I am Cheng Song. I am now a PhD student of Seoul National University. [Contact m
 *Although BayHunter is currently compatible with Python 2 and 3, we recommend you to upgrade to Python 3, as the official support for Python 2 has stopped in January 2020.
 
 ```sh
-git clone https://github.com/jenndrei/BayHunter.git
-cd BayHunter
-sudo python setup.py install
 ```
 
 ### Documentation and Tutorial
